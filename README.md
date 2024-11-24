@@ -51,5 +51,5 @@ A simple RESTful API built with Node.js and Express that performs basic arithmet
 
 ## API Endpoint
 
-1. In the proyect you can found the postman file to execute the API and receive the results in json format.
+1. In the proyect you can find the Postman file to execute the API and receive the results in json format.
 
