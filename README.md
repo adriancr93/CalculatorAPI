@@ -7,11 +7,7 @@ A simple RESTful API built with Node.js and Express that performs basic arithmet
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Testing the API](#testing-the-api)
-- [Error Handling](#error-handling)
-- [License](#license)
 
 ## Features
 
